@@ -84,7 +84,3 @@ npx eas-cli build -p android --profile preview
 ```
 
 Ao final do build, o EAS fornece um link para baixar e instalar o APK. Para publicação na Google Play, o formato recomendado costuma ser `.aab`, usando o perfil `production`.
-
-## Observação de saúde
-
-As informações do app são educativas e não substituem avaliação médica. Em caso de sintomas, dúvidas ou sinais de alerta, procure a UBS para confirmação e acompanhamento.
