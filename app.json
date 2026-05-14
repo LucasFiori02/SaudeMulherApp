@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Minha Saúde Feminina",
+    "slug": "minha-saude-feminina",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FBF4EB"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.minhasaude.feminina"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1ba53243-d327-4452-baa6-2985bb7c0b8b"
+      }
+    },
+    "owner": "lucasfiori02s-organization"
+  }
+}
